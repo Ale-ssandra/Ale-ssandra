@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Ale-ssandra">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ale-ssandra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-ssandra&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ale-ssandra&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-ssandra&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -40,5 +40,5 @@
 
 <div align="center">
   <p>Feito com :heart:<p>
-  <img align="center"Ale-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_xP7ierAH.png">
+  <img align="center"Ale-pic" height="150" style="border-radius:50px;"src="https://cdn.picrew.me/shareImg/org/202303/338224_xP7ierAH.png">
 </div>

@@ -10,7 +10,7 @@
 
 <div>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Alessandra+Pinheiro;Tenho+25+anos;Moro+no+Brasil;Sou+estudante+programação;Bem+vindo+ao+meu+perfil:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alessandra+Pinheiro;Tenho+25+anos;Moro+no+Brasil;Sou+estudante+de+programação;Bem+vindo(a)+ao+meu+perfil:%29)](https://git.io/typing-svg)
 
   
   <div align="center">

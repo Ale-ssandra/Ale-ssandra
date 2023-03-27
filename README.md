@@ -1,13 +1,23 @@
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=header"/>
+
+<div  align=center>
+ <img  height= "150" src="https://cdn.picrew.me/shareImg/org/202303/338224_xP7ierAH.png"/><br>
+ </div>
+
+
 <div>
   
-  <h1 align="center" bac>
-    Oi Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/alessandra-pinheiro-cunha/">Alessandra Pinheiro<img align="right" alt="Ale-pic" height="50" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/8453/8453606.png"></a>
-  </h1>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Alessandra+Pinheiro;Tenho+25+anos;Moro+no+Brasil;Sou+estudante+programação;Bem+vindo+ao+meu+perfil:%29)](https://git.io/typing-svg)
+
   
-  <p align="center" >
-    📚 Atualmente estudando curso fullstack, voltado para a linguagem Java script.
-  </p>
+  <div align="center">
+    <h3>
+ <img align="center"Ale-pic" height="35" src="https://cdn-icons-png.flaticon.com/512/6347/6347299.png">  Atualmente estudando curso fullstack, voltado para a linguagem Java script.
+    <h3>
+  </div><br>
   
 </div>
 
@@ -38,9 +48,10 @@
   
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ale-ssandra&bg_color=0d1117&color=9e4c98&line=610039&point=551a6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ale-ssandra&bg_color=0d1117&color=9e4c98&line=ff1247&point=551a6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <p>Feito com :heart:<p>
-  <img align="center"Ale-pic" height="150" style="border-radius:50px;"src="https://cdn.picrew.me/shareImg/org/202303/338224_xP7ierAH.png">
+ <h1> Feito com ❤ <h1>
+  <img align="center"Ale-pic" height="150" src="https://cdn-icons-png.flaticon.com/512/763/763724.png">
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>

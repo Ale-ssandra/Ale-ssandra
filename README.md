@@ -9,7 +9,7 @@
   
   <div align="center">
     <h3>
- <img align="center"Ale-pic" height="35" src="https://cdn-icons-png.flaticon.com/512/6347/6347299.png">  Atualmente estudando curso fullstack, voltado para a linguagem Java script.
+ <img align="center"Ale-pic" height="35" src="https://cdn-icons-png.flaticon.com/512/6347/6347299.png">  Atualmente estudando curso fullstack, voltado para a linguagem Javascript.
     <h3>
   </div><br>
   
@@ -28,6 +28,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
   
 <div align="center"><br>
